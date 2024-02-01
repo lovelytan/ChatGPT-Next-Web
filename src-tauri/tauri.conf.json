@@ -8,7 +8,7 @@
     "withGlobalTauri": true
   },
   "package": {
-    "productName": "NextChat",
+    "productName": "Arabian Nights",
     "version": "2.10.1"
   },
   "tauri": {
@@ -67,8 +67,8 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.yida.chatgpt.next.web",
-      "longDescription": "NextChat is a cross-platform ChatGPT client, including Web/Win/Linux/OSX/PWA.",
+      "identifier": "com.lovelytan.chatgpt.next.web",
+      "longDescription": "Arabian Nights is a cross-platform ChatGPT client, including Web/Win/Linux/OSX/PWA.",
       "macOS": {
         "entitlements": null,
         "exceptionDomain": "",
@@ -77,7 +77,7 @@
         "signingIdentity": null
       },
       "resources": [],
-      "shortDescription": "NextChat App",
+      "shortDescription": "Arabian Nights App",
       "targets": "all",
       "windows": {
         "certificateThumbprint": null,
@@ -104,7 +104,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "NextChat",
+        "title": "Arabian Nights",
         "width": 960,
         "hiddenTitle": true,
         "titleBarStyle": "Overlay"
